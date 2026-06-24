@@ -8,3 +8,4 @@
 - `signals.png` - Illustration for AI signal trading.
 - `kimchi.png` - Illustration for kimchi arbitrage.
 - `prediction.png` - Illustration for prediction-market edge.
+- `listings.png` - Illustration for new-token listing liquidity.
