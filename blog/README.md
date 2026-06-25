@@ -42,3 +42,38 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `researcher-quant-archive-pipeline.png` - how the data gets in
 - `researcher-quant-archive-access.png` - access and hosting
 - `researcher-quant-archive-ecosystem.png` - where it fits in the Marketmaker stack
+
+## deeplob-deep-learning-order-book
+
+- `deeplob-deep-learning-order-book.png` - hero
+- `deeplob-deep-learning-order-book-lob-structure.png` - the limit order book as a data structure
+- `deeplob-deep-learning-order-book-architecture.png` - DeepLOB architecture
+- `deeplob-deep-learning-order-book-features.png` - what the model captures
+- `deeplob-deep-learning-order-book-replication.png` - the replication crisis
+- `deeplob-deep-learning-order-book-landscape.png` - the current landscape
+
+## spread-modeling-machine-learning
+
+- `spread-modeling-machine-learning.png` - hero
+- `spread-modeling-machine-learning-components.png` - the three components of the spread
+- `spread-modeling-machine-learning-roll.png` - Roll's implicit spread model
+- `spread-modeling-machine-learning-features.png` - ML features for spread prediction
+- `spread-modeling-machine-learning-quoting.png` - from prediction to quoting
+- `spread-modeling-machine-learning-evaluation.png` - evaluation and backtesting
+
+## temporal-fusion-transformer-trading
+
+- `temporal-fusion-transformer-trading.png` - hero
+- `temporal-fusion-transformer-trading-architecture.png` - TFT architecture: the full stack
+- `temporal-fusion-transformer-trading-comparison.png` - TFT vs LSTM vs vanilla transformer
+- `temporal-fusion-transformer-trading-interpretability.png` - interpretability in practice
+- `temporal-fusion-transformer-trading-pipeline.png` - a TFT-based portfolio pipeline
+
+## conformal-prediction-trading
+
+- `conformal-prediction-trading.png` - hero
+- `conformal-prediction-trading-nonconformity.png` - nonconformity scores
+- `conformal-prediction-trading-split.png` - split conformal prediction
+- `conformal-prediction-trading-non-exchangeability.png` - non-exchangeability in time series
+- `conformal-prediction-trading-adaptive.png` - adaptive conformal inference
+- `conformal-prediction-trading-position-sizing.png` - position sizing with conformal intervals
