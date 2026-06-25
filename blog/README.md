@@ -31,3 +31,14 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `daily-stock-analysis-review-agent-strategies.png` - agent strategies / ask a question
 - `daily-stock-analysis-review-read-honestly.png` - reading it without self-deception
 - `daily-stock-analysis-review-limitations.png` - limitations / honest assessment
+
+## researcher-quant-archive
+
+- `researcher-quant-archive.png` - hero
+- `researcher-quant-archive-corpus.png` - what's in the corpus
+- `researcher-quant-archive-single-source.png` - single source of truth
+- `researcher-quant-archive-search.png` - full-text, typo-tolerant, faceted search
+- `researcher-quant-archive-mcp-api.png` - agent-accessible MCP and public API
+- `researcher-quant-archive-pipeline.png` - how the data gets in
+- `researcher-quant-archive-access.png` - access and hosting
+- `researcher-quant-archive-ecosystem.png` - where it fits in the Marketmaker stack
