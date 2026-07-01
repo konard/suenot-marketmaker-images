@@ -77,3 +77,13 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `conformal-prediction-trading-non-exchangeability.png` - non-exchangeability in time series
 - `conformal-prediction-trading-adaptive.png` - adaptive conformal inference
 - `conformal-prediction-trading-position-sizing.png` - position sizing with conformal intervals
+
+## look-ahead-bias-taxonomy
+
+- `look-ahead-bias-taxonomy.png` - hero
+- `look-ahead-bias-taxonomy-same-bar-fill.png` - same-bar fill / off-by-one execution leak
+- `look-ahead-bias-taxonomy-noise-to-sharpe.png` - pure noise turned into a fake high Sharpe
+- `look-ahead-bias-taxonomy-dose-gradient.png` - leak dose-response gradient
+- `look-ahead-bias-taxonomy-three-leaks.png` - three leak channels with unequal danger
+- `look-ahead-bias-taxonomy-ground-truth-sim.png` - controlled simulator with known ground truth
+- `look-ahead-bias-taxonomy-shift-detector.png` - one-bar-shift diagnostic
