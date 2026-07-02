@@ -108,3 +108,13 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `ipc-tax-backtest-engine-break-even.png` - break-even arithmetic
 - `ipc-tax-backtest-engine-transport-floor.png` - transport floor choices
 - `ipc-tax-backtest-engine-the-verdict.png` - gap dissected
+
+## deflated-sharpe-multiple-testing
+
+- `deflated-sharpe-multiple-testing.png` - hero
+- `deflated-sharpe-multiple-testing-the-search-machine.png` - the search is a multiple-testing machine
+- `deflated-sharpe-multiple-testing-the-toolkit.png` - the deflation toolkit
+- `deflated-sharpe-multiple-testing-calibration.png` - calibration restores honesty
+- `deflated-sharpe-multiple-testing-power-curve.png` - detection power S-curve
+- `deflated-sharpe-multiple-testing-correlated-grids.png` - the effective-N robustness band
+- `deflated-sharpe-multiple-testing-two-questions.png` - two complementary tools
