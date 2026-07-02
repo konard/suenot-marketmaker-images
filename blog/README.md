@@ -97,3 +97,14 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `backtest-engine-speed-ladder-prange-parallel.png` - parallel across CPU cores
 - `backtest-engine-speed-ladder-why-not-gpu.png` - the honest GPU verdict
 - `backtest-engine-speed-ladder-real-bottleneck.png` - engine and orchestration bottleneck
+
+## ipc-tax-backtest-engine
+
+- `ipc-tax-backtest-engine.png` - hero
+- `ipc-tax-backtest-engine-the-boundary.png` - measured boundary cost
+- `ipc-tax-backtest-engine-serialization-tax.png` - serialization tax
+- `ipc-tax-backtest-engine-chatty-vs-chunky.png` - chatty vs chunky calls
+- `ipc-tax-backtest-engine-spawn-cost.png` - per-call process spawn
+- `ipc-tax-backtest-engine-break-even.png` - break-even arithmetic
+- `ipc-tax-backtest-engine-transport-floor.png` - transport floor choices
+- `ipc-tax-backtest-engine-the-verdict.png` - gap dissected
