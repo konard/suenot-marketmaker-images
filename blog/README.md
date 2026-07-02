@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## proving-no-lookahead-multi-timeframe
+
+- `proving-no-lookahead-multi-timeframe.png` - hero
+- `proving-no-lookahead-multi-timeframe-minefield.png` - the multi-timeframe minefield
+- `proving-no-lookahead-multi-timeframe-closed-bar.png` - a forming bar has no final close yet
+- `proving-no-lookahead-multi-timeframe-probe.png` - the shifted-future probe
+- `proving-no-lookahead-multi-timeframe-one-truth.png` - backtest and live share one truth
