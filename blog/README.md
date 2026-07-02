@@ -118,3 +118,13 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `deflated-sharpe-multiple-testing-power-curve.png` - detection power S-curve
 - `deflated-sharpe-multiple-testing-correlated-grids.png` - the effective-N robustness band
 - `deflated-sharpe-multiple-testing-two-questions.png` - two complementary tools
+
+## objective-function-design-backtest
+
+- `objective-function-design-backtest.png` - hero
+- `objective-function-design-backtest-the-secret-decision.png` - the objective is a secret decision
+- `objective-function-design-backtest-the-lottery-winner.png` - the rare-trade lottery
+- `objective-function-design-backtest-mc-truth.png` - six objectives, the statistical truth
+- `objective-function-design-backtest-few-trades-unreliable.png` - few observations, meaningless Sharpe
+- `objective-function-design-backtest-the-repair.png` - two knobs recover the optimum
+- `objective-function-design-backtest-exposure-aware.png` - spotlight vs floodlight
