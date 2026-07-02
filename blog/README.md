@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## drill-down-multifidelity-fidelity-gate
+
+- `drill-down-multifidelity-fidelity-gate.png` - hero
+- `drill-down-multifidelity-fidelity-gate-coarse-to-fine.png` - the coarse-to-fine cascade
+- `drill-down-multifidelity-fidelity-gate-silent-collapse.png` - the silent collapse
+- `drill-down-multifidelity-fidelity-gate-the-fidelity-gate.png` - the fidelity gate
+- `drill-down-multifidelity-fidelity-gate-rho-by-fold.png` - rank correlation by fold count
