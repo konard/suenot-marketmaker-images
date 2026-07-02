@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## honest-negative-no-robust-edge
+
+- `honest-negative-no-robust-edge.png` - hero
+- `honest-negative-no-robust-edge-the-tempting-winner.png` - the tempting winner
+- `honest-negative-no-robust-edge-the-deflation.png` - DSR deflates the winner
+- `honest-negative-no-robust-edge-cross-instrument.png` - robustness across instruments
+- `honest-negative-no-robust-edge-why-negative-is-correct.png` - why publishing the negative is correct
