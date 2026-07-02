@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## search-method-crossover-eval-cost
+
+- `search-method-crossover-eval-cost.png` - hero
+- `search-method-crossover-eval-cost-eval-cost-denominator.png` - eval cost denominator
+- `search-method-crossover-eval-cost-cheap-regime-sobol.png` - cheap regime Sobol throughput
+- `search-method-crossover-eval-cost-the-crossover.png` - the crossover
+- `search-method-crossover-eval-cost-cost-aware-exploitation.png` - cost-aware exploitation
