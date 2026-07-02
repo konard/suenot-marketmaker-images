@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## framework-tax-event-driven-vs-vectorized
+
+- `framework-tax-event-driven-vs-vectorized.png` - hero
+- `framework-tax-event-driven-vs-vectorized-event-vs-vectorized.png` - the two (three) execution paradigms
+- `framework-tax-event-driven-vs-vectorized-the-paradox.png` - naive pandas beats the frameworks
+- `framework-tax-event-driven-vs-vectorized-the-tax.png` - where the per-bar tax is levied
+- `framework-tax-event-driven-vs-vectorized-when-frameworks-win.png` - in defense of event-driven engines
