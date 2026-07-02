@@ -128,3 +128,13 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `objective-function-design-backtest-few-trades-unreliable.png` - few observations, meaningless Sharpe
 - `objective-function-design-backtest-the-repair.png` - two knobs recover the optimum
 - `objective-function-design-backtest-exposure-aware.png` - spotlight vs floodlight
+
+## probability-backtest-overfitting-pbo
+
+- `probability-backtest-overfitting-pbo.png` - hero
+- `probability-backtest-overfitting-pbo-cscv-machine.png` - the CSCV machine
+- `probability-backtest-overfitting-pbo-the-null-is-a-coin-flip.png` - the null is a coin flip
+- `probability-backtest-overfitting-pbo-the-overfitting-thermometer.png` - PBO as a thermometer
+- `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
+- `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
+- `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
