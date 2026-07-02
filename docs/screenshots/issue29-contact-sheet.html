@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Issue 29 Image Contact Sheet</title>
+  <style>
+    body {
+      margin: 0;
+      background: #060912;
+      color: #dbeafe;
+      font-family: system-ui, sans-serif;
+    }
+    main {
+      display: grid;
+      gap: 24px;
+      padding: 24px;
+    }
+    figure {
+      margin: 0;
+      border: 1px solid #1e293b;
+      background: #0b1020;
+    }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    figcaption {
+      padding: 10px 12px;
+      color: #93c5fd;
+      font-size: 14px;
+    }
+    @media (min-width: 1100px) {
+      main {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline.png" alt="Hero image">
+      <figcaption>when-gpu-pays-off-sweep-roofline.png</figcaption>
+    </figure>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline-model.png" alt="Roofline model image">
+      <figcaption>when-gpu-pays-off-sweep-roofline-model.png</figcaption>
+    </figure>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline-single-tf-verdict.png" alt="Single-timeframe verdict image">
+      <figcaption>when-gpu-pays-off-sweep-roofline-single-tf-verdict.png</figcaption>
+    </figure>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline-batch-scaling.png" alt="Batch scaling image">
+      <figcaption>when-gpu-pays-off-sweep-roofline-batch-scaling.png</figcaption>
+    </figure>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline-decomposition.png" alt="Decomposition image">
+      <figcaption>when-gpu-pays-off-sweep-roofline-decomposition.png</figcaption>
+    </figure>
+    <figure>
+      <img src="../../blog/when-gpu-pays-off-sweep-roofline-decision-guide.png" alt="Decision guide image">
+      <figcaption>when-gpu-pays-off-sweep-roofline-decision-guide.png</figcaption>
+    </figure>
+  </main>
+</body>
+</html>

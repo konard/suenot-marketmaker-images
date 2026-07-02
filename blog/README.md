@@ -138,3 +138,12 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## when-gpu-pays-off-sweep-roofline
+
+- `when-gpu-pays-off-sweep-roofline.png` - hero
+- `when-gpu-pays-off-sweep-roofline-model.png` - the roofline model
+- `when-gpu-pays-off-sweep-roofline-single-tf-verdict.png` - the single-timeframe verdict
+- `when-gpu-pays-off-sweep-roofline-batch-scaling.png` - batch-size scaling
+- `when-gpu-pays-off-sweep-roofline-decomposition.png` - algorithm vs hardware decomposition
+- `when-gpu-pays-off-sweep-roofline-decision-guide.png` - decision guide
