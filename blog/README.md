@@ -87,3 +87,13 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `look-ahead-bias-taxonomy-three-leaks.png` - three leak channels with unequal danger
 - `look-ahead-bias-taxonomy-ground-truth-sim.png` - controlled simulator with known ground truth
 - `look-ahead-bias-taxonomy-shift-detector.png` - one-bar-shift diagnostic
+
+## backtest-engine-speed-ladder
+
+- `backtest-engine-speed-ladder.png` - hero
+- `backtest-engine-speed-ladder-the-ladder.png` - the five rungs
+- `backtest-engine-speed-ladder-pandas-baseline.png` - the naive pandas baseline
+- `backtest-engine-speed-ladder-numba-jit.png` - JIT compilation
+- `backtest-engine-speed-ladder-prange-parallel.png` - parallel across CPU cores
+- `backtest-engine-speed-ladder-why-not-gpu.png` - the honest GPU verdict
+- `backtest-engine-speed-ladder-real-bottleneck.png` - engine and orchestration bottleneck
