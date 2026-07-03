@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## two-axis-parameter-space
+
+- `two-axis-parameter-space.png` - hero
+- `two-axis-parameter-space-two-axes.png` - two axes, not one
+- `two-axis-parameter-space-cache-sweep.png` - compute once, sweep many
+- `two-axis-parameter-space-cost-gap.png` - what "free" actually costs
+- `two-axis-parameter-space-repriced-curse.png` - the curse of dimensionality, re-priced
