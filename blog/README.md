@@ -138,3 +138,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `probability-backtest-overfitting-pbo-the-realistic-trap.png` - the random-walk trap
 - `probability-backtest-overfitting-pbo-procedure-vs-winner.png` - PBO vs DSR
 - `probability-backtest-overfitting-pbo-plateau-vs-spike.png` - plateau vs spike
+
+## gpu-precision-trap-fp32-backtest
+
+- `gpu-precision-trap-fp32-backtest.png` - hero
+- `gpu-precision-trap-fp32-backtest-no-fp64.png` - Metal has no float64
+- `gpu-precision-trap-fp32-backtest-cancellation.png` - catastrophic cancellation
+- `gpu-precision-trap-fp32-backtest-conv1d.png` - direct windowed convolution
+- `gpu-precision-trap-fp32-backtest-fix.png` - pivot verified by trade count
