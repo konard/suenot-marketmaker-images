@@ -97,6 +97,8 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `backtest-engine-speed-ladder-prange-parallel.png` - parallel across CPU cores
 - `backtest-engine-speed-ladder-why-not-gpu.png` - the honest GPU verdict
 - `backtest-engine-speed-ladder-real-bottleneck.png` - engine and orchestration bottleneck
+- `backtest-vector.webp` - Vector Engine card hero for the backtest page
+- `backtest-event.webp` - Event Engine card hero for the backtest page
 
 ## ipc-tax-backtest-engine
 
