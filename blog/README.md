@@ -2,6 +2,14 @@
 
 Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 
+## dcc-garch-dynamic-correlation-crypto
+
+- `dcc-garch-dynamic-correlation-crypto.png` - hero
+- `dcc-garch-dynamic-correlation-crypto-correlation-breakdown.png` - correlation breakdown during a crash
+- `dcc-garch-dynamic-correlation-crypto-two-step.png` - two-step DCC covariance decomposition
+- `dcc-garch-dynamic-correlation-crypto-hedge-ratio.png` - time-varying hedge ratio
+- `dcc-garch-dynamic-correlation-crypto-regime-signal.png` - correlation regime signal
+
 ## algo-investor-skills
 
 - `algo-investor-skills.png` - hero
