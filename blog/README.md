@@ -1,5 +1,13 @@
 # Blog Images
 
+## volatility-targeting-garch-strategy
+
+- `volatility-targeting-garch-strategy.png` - hero
+- `volatility-targeting-garch-strategy-vol-targeting.png` - volatility targeting and exposure scaling
+- `volatility-targeting-garch-strategy-forecast-contest.png` - competing volatility forecasters
+- `volatility-targeting-garch-strategy-forecast-eval.png` - forecast evaluation with a robust loss surface
+- `volatility-targeting-garch-strategy-walk-forward.png` - causal walk-forward forecasting and sizing
+
 Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 
 ## dcc-garch-dynamic-correlation-crypto
@@ -9,6 +17,14 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `dcc-garch-dynamic-correlation-crypto-two-step.png` - two-step DCC covariance decomposition
 - `dcc-garch-dynamic-correlation-crypto-hedge-ratio.png` - time-varying hedge ratio
 - `dcc-garch-dynamic-correlation-crypto-regime-signal.png` - correlation regime signal
+
+## asymmetric-garch-crypto-leverage
+
+- `asymmetric-garch-crypto-leverage.png` - hero
+- `asymmetric-garch-crypto-leverage-news-impact.png` - asymmetric news-impact curves
+- `asymmetric-garch-crypto-leverage-fat-tails.png` - Gaussian vs heavy-tailed returns
+- `asymmetric-garch-crypto-leverage-var-es.png` - VaR threshold, expected shortfall, and breach coverage
+- `asymmetric-garch-crypto-leverage-model-selection.png` - volatility model selection
 
 ## algo-investor-skills
 
