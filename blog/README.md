@@ -2,6 +2,14 @@
 
 Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 
+## asymmetric-garch-crypto-leverage
+
+- `asymmetric-garch-crypto-leverage.png` - hero
+- `asymmetric-garch-crypto-leverage-news-impact.png` - asymmetric news-impact curves
+- `asymmetric-garch-crypto-leverage-fat-tails.png` - Gaussian vs heavy-tailed returns
+- `asymmetric-garch-crypto-leverage-var-es.png` - VaR threshold, expected shortfall, and breach coverage
+- `asymmetric-garch-crypto-leverage-model-selection.png` - volatility model selection
+
 ## algo-investor-skills
 
 - `algo-investor-skills.png` - hero
