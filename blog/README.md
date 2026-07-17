@@ -1,5 +1,13 @@
 # Blog Images
 
+## volatility-targeting-garch-strategy
+
+- `volatility-targeting-garch-strategy.png` - hero
+- `volatility-targeting-garch-strategy-vol-targeting.png` - volatility targeting and exposure scaling
+- `volatility-targeting-garch-strategy-forecast-contest.png` - competing volatility forecasters
+- `volatility-targeting-garch-strategy-forecast-eval.png` - forecast evaluation with a robust loss surface
+- `volatility-targeting-garch-strategy-walk-forward.png` - causal walk-forward forecasting and sizing
+
 Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 
 ## asymmetric-garch-crypto-leverage
