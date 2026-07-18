@@ -1,5 +1,13 @@
 # Blog Images
 
+## mev-supply-chain-pbs-mevboost
+
+- `mev-supply-chain-pbs-mevboost.png` - hero
+- `mev-supply-chain-pbs-mevboost-pbs-pipeline.png` - proposer-builder separation pipeline
+- `mev-supply-chain-pbs-mevboost-bid-shading.png` - competition, bid shading, and value capture
+- `mev-supply-chain-pbs-mevboost-order-flow.png` - exclusive order-flow feedback loop
+- `mev-supply-chain-pbs-mevboost-solana-jito.png` - per-slot versus continuous bundle auctions
+
 ## uniswap-v3-concentrated-liquidity-quants
 
 - `uniswap-v3-concentrated-liquidity-quants.png` - hero
