@@ -7,6 +7,13 @@
 - `uniswap-v3-concentrated-liquidity-quants-tick-grid.png` - log-spaced price tick grid
 - `uniswap-v3-concentrated-liquidity-quants-fee-accounting.png` - in-range-only fee accounting
 - `uniswap-v3-concentrated-liquidity-quants-short-vol-payoff.png` - LP short-volatility payoff
+## implementation-shortfall-tca-execution
+
+- `implementation-shortfall-tca-execution.png` - hero
+- `implementation-shortfall-tca-execution-perold-gap.png` - paper portfolio versus realized execution at the arrival price
+- `implementation-shortfall-tca-execution-cost-decomposition.png` - five-component implementation-shortfall waterfall
+- `implementation-shortfall-tca-execution-markout-curves.png` - post-fill markouts and adverse selection
+- `implementation-shortfall-tca-execution-close-the-loop.png` - TCA-to-backtest calibration feedback loop
 
 ## almgren-chriss-optimal-execution
 
