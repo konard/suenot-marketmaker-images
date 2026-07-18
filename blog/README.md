@@ -31,6 +31,13 @@
 - `fill-simulation-partial-fills-backtest-partial-state-machine.png` - partial-fill state machine
 - `fill-simulation-partial-fills-backtest-probability-bracket.png` - limit-fill probability and PnL bracket
 - `fill-simulation-partial-fills-backtest-calibration-loop.png` - simulation-to-live calibration loop
+## mev-sandwich-frontrunning-mempool
+
+- `mev-sandwich-frontrunning-mempool.png` - hero
+- `mev-sandwich-frontrunning-mempool-dark-forest.png` - public intent and the gas-priority queue
+- `mev-sandwich-frontrunning-mempool-sandwich-math.png` - three-step constant-product sandwich
+- `mev-sandwich-frontrunning-mempool-taxonomy.png` - toxic and benign MEV taxonomy
+- `mev-sandwich-frontrunning-mempool-defenses.png` - layered trader defenses
 
 ## garch-volatility-forecasting-crypto
 
