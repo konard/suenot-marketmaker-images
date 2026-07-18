@@ -1,5 +1,13 @@
 # Blog Images
 
+## almgren-chriss-optimal-execution
+
+- `almgren-chriss-optimal-execution.png` - hero
+- `almgren-chriss-optimal-execution-impact-vs-risk.png` - temporary and permanent market impact versus timing risk
+- `almgren-chriss-optimal-execution-sinh-trajectory.png` - urgency-dependent liquidation paths and TWAP limit
+- `almgren-chriss-optimal-execution-efficient-frontier.png` - efficient frontier of expected cost and timing-risk variance
+- `almgren-chriss-optimal-execution-calibration.png` - volatility and market-impact calibration from trade and order-book data
+
 ## garch-volatility-forecasting-crypto
 
 - `garch-volatility-forecasting-crypto.png` - hero
