@@ -21,6 +21,13 @@
 - `maker-taker-fees-rebates-execution-adverse-selection.png` - the fill is the bad news
 - `maker-taker-fees-rebates-execution-fee-tiers.png` - real fee tiers and the marginal-fee trap
 - `maker-taker-fees-rebates-execution-queue-value.png` - queue-dependent rebate value
+## child-order-execution-tactics
+
+- `child-order-execution-tactics.png` - hero
+- `child-order-execution-tactics-two-layers.png` - scheduler and tactics layers
+- `child-order-execution-tactics-escalation-ladder.png` - passive-to-aggressive escalation ladder
+- `child-order-execution-tactics-amend-vs-replace.png` - queue priority retained versus burned
+- `child-order-execution-tactics-iceberg.png` - hidden versus fully displayed order size
 
 ## almgren-chriss-optimal-execution
 
