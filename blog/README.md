@@ -1,5 +1,13 @@
 # Blog Images
 
+## uniswap-v3-concentrated-liquidity-quants
+
+- `uniswap-v3-concentrated-liquidity-quants.png` - hero
+- `uniswap-v3-concentrated-liquidity-quants-virtual-reserves.png` - concentrated liquidity through virtual reserves
+- `uniswap-v3-concentrated-liquidity-quants-tick-grid.png` - log-spaced price tick grid
+- `uniswap-v3-concentrated-liquidity-quants-fee-accounting.png` - in-range-only fee accounting
+- `uniswap-v3-concentrated-liquidity-quants-short-vol-payoff.png` - LP short-volatility payoff
+
 ## almgren-chriss-optimal-execution
 
 - `almgren-chriss-optimal-execution.png` - hero
