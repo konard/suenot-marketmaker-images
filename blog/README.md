@@ -8,6 +8,14 @@
 - `almgren-chriss-optimal-execution-efficient-frontier.png` - efficient frontier of expected cost and timing-risk variance
 - `almgren-chriss-optimal-execution-calibration.png` - volatility and market-impact calibration from trade and order-book data
 
+## twap-vwap-pov-execution-algorithms
+
+- `twap-vwap-pov-execution-algorithms.png` - hero
+- `twap-vwap-pov-execution-algorithms-three-schedulers.png` - three scheduling logics
+- `twap-vwap-pov-execution-algorithms-volume-curve.png` - 24/7 crypto volume-curve estimation
+- `twap-vwap-pov-execution-algorithms-pov-feedback.png` - self-reinforcing POV feedback loop
+- `twap-vwap-pov-execution-algorithms-benchmark-race.png` - relative benchmark race versus absolute cost
+
 ## garch-volatility-forecasting-crypto
 
 - `garch-volatility-forecasting-crypto.png` - hero
