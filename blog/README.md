@@ -16,6 +16,14 @@
 - `twap-vwap-pov-execution-algorithms-pov-feedback.png` - self-reinforcing POV feedback loop
 - `twap-vwap-pov-execution-algorithms-benchmark-race.png` - relative benchmark race versus absolute cost
 
+## fill-simulation-partial-fills-backtest
+
+- `fill-simulation-partial-fills-backtest.png` - hero
+- `fill-simulation-partial-fills-backtest-fidelity-ladder.png` - five-rung fill-simulation fidelity ladder
+- `fill-simulation-partial-fills-backtest-partial-state-machine.png` - partial-fill state machine
+- `fill-simulation-partial-fills-backtest-probability-bracket.png` - limit-fill probability and PnL bracket
+- `fill-simulation-partial-fills-backtest-calibration-loop.png` - simulation-to-live calibration loop
+
 ## garch-volatility-forecasting-crypto
 
 - `garch-volatility-forecasting-crypto.png` - hero
