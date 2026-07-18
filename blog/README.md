@@ -1,5 +1,13 @@
 # Blog Images
 
+## maker-taker-fees-rebates-execution
+
+- `maker-taker-fees-rebates-execution.png` - hero
+- `maker-taker-fees-rebates-execution-break-even.png` - naive break-even and the forgotten adverse-selection term
+- `maker-taker-fees-rebates-execution-adverse-selection.png` - the fill is the bad news
+- `maker-taker-fees-rebates-execution-fee-tiers.png` - real fee tiers and the marginal-fee trap
+- `maker-taker-fees-rebates-execution-queue-value.png` - queue-dependent rebate value
+
 ## almgren-chriss-optimal-execution
 
 - `almgren-chriss-optimal-execution.png` - hero
