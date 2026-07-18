@@ -18,6 +18,14 @@
 
 Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 
+## onchain-liquidations-aave-compound
+
+- `onchain-liquidations-aave-compound.png` - hero
+- `onchain-liquidations-aave-compound-health-factor.png` - health-factor ratio and safety buffer
+- `onchain-liquidations-aave-compound-oracle-trigger.png` - predictable oracle-triggered liquidations
+- `onchain-liquidations-aave-compound-liquidation-bot.png` - four-subsystem liquidation bot pipeline
+- `onchain-liquidations-aave-compound-bonus-competition.png` - liquidation bonus competition and fee pressure
+
 ## dcc-garch-dynamic-correlation-crypto
 
 - `dcc-garch-dynamic-correlation-crypto.png` - hero
