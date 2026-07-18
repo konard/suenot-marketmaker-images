@@ -1,5 +1,13 @@
 # Blog Images
 
+## uniswap-v3-lp-strategies-hedging
+
+- `uniswap-v3-lp-strategies-hedging.png` - hero
+- `uniswap-v3-lp-strategies-hedging-range-from-vol.png` - volatility forecast mapped to liquidity range width
+- `uniswap-v3-lp-strategies-hedging-rebalance-band.png` - threshold versus periodic rebalancing costs
+- `uniswap-v3-lp-strategies-hedging-delta-hedge.png` - LP inventory delta neutralized with a perpetual hedge
+- `uniswap-v3-lp-strategies-hedging-jit-liquidity.png` - same-block just-in-time liquidity bundle
+
 ## uniswap-v3-concentrated-liquidity-quants
 
 - `uniswap-v3-concentrated-liquidity-quants.png` - hero
