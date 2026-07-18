@@ -46,6 +46,7 @@ def validate_png(path: Path) -> tuple[int, int, int]:
     assert chunks[-1] == b"IEND", f"{path}: missing IEND"
     assert offset == len(data), f"{path}: trailing bytes after IEND"
     assert (width, height) == (1664, 936), f"{path}: got {width}x{height}"
+    assert 500_000 <= len(data) <= 3_000_000, f"{path}: implausible size {len(data)}"
     return width, height, len(data)
 
 
