@@ -248,3 +248,11 @@ Premium-dark generated PNG imagery for Marketmaker.cc blog posts.
 - `gpu-precision-trap-fp32-backtest-cancellation.png` - catastrophic cancellation
 - `gpu-precision-trap-fp32-backtest-conv1d.png` - direct windowed convolution
 - `gpu-precision-trap-fp32-backtest-fix.png` - pivot verified by trade count
+
+## impermanent-loss-lvr-lp-profitability
+
+- `impermanent-loss-lvr-lp-profitability.png` - hero: LP fees versus volatility bleed
+- `impermanent-loss-lvr-lp-profitability-il-curve.png` - symmetric impermanent-loss curve
+- `impermanent-loss-lvr-lp-profitability-concentrated-leverage.png` - concentrated liquidity as leveraged IL
+- `impermanent-loss-lvr-lp-profitability-lvr-decomposition.png` - fee, LVR, and net-PnL decomposition
+- `impermanent-loss-lvr-lp-profitability-markout.png` - cumulative adverse-selection markout
