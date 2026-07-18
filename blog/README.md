@@ -14,6 +14,13 @@
 - `uniswap-v3-lp-strategies-hedging-rebalance-band.png` - threshold versus periodic rebalancing costs
 - `uniswap-v3-lp-strategies-hedging-delta-hedge.png` - LP inventory delta neutralized with a perpetual hedge
 - `uniswap-v3-lp-strategies-hedging-jit-liquidity.png` - same-block just-in-time liquidity bundle
+## liquidation-cascades-trading-signal
+
+- `liquidation-cascades-trading-signal.png` - hero
+- `liquidation-cascades-trading-signal-depth-chart.png` - on-chain liquidation depth chart
+- `liquidation-cascades-trading-signal-cex-heatmap.png` - estimated CEX liquidation heatmap
+- `liquidation-cascades-trading-signal-cascade-chain.png` - subcritical and supercritical cascade chain
+- `liquidation-cascades-trading-signal-signal-map.png` - liquidation magnet, overshoot, and reversal signal
 
 ## uniswap-v3-concentrated-liquidity-quants
 
