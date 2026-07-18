@@ -1,5 +1,13 @@
 # Blog Images
 
+## onchain-arbitrage-atomic-flash-loans
+
+- `onchain-arbitrage-atomic-flash-loans.png` - hero
+- `onchain-arbitrage-atomic-flash-loans-atomic-loop.png` - indivisible flash-loan arbitrage transaction
+- `onchain-arbitrage-atomic-flash-loans-cycle-detection.png` - commoditized negative-cycle detection
+- `onchain-arbitrage-atomic-flash-loans-backrun.png` - benign backrun restoring pool alignment
+- `onchain-arbitrage-atomic-flash-loans-priority-auction.png` - priority auction and builder value capture
+
 ## uniswap-v3-concentrated-liquidity-quants
 
 - `uniswap-v3-concentrated-liquidity-quants.png` - hero
